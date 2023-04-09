@@ -43,6 +43,11 @@
 .textbox button{
     font-size:30px;
    border-radius: 10px
+
+}
+button a{
+    text-decoration:none;
+    color:black;
 }
 .box img{
     flex:1;
